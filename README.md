@@ -1,0 +1,3 @@
+- ComfyUI는 노드 기반으로 이미지 생성 파이프라인을 구성하는 도구다.
+- 최소 workflow는 Checkpoint 로드 → Prompt 인코딩 → Sampling → Decode → Save 흐름으로 이해할 수 있다.
+- 같은 장면 조건을 유지한 채 seed를 변경하면 reference image variation을 만들 수 있다.
