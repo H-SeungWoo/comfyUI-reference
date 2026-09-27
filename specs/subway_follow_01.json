@@ -1,0 +1,50 @@
+{
+  "shot_id": "subway_follow_01",
+
+  "character": {
+    "subject": "young woman wearing a dark coat",
+    "action": "walking alone",
+    "facing": "away from camera"
+  },
+
+  "environment": {
+    "location": "empty subway platform",
+    "time": "dawn",
+    "details": [
+      "long empty platform",
+      "repeating columns",
+      "subway tracks extending into the distance"
+    ]
+  },
+
+  "composition": {
+    "shot_size": "medium wide shot",
+    "camera_view": "rear view",
+    "subject_position": "center",
+    "perspective": "deep perspective",
+    "vanishing_point": "central",
+    "leading_lines": true
+  },
+
+  "lighting": {
+    "type": "cold fluorescent lighting",
+    "details": [
+      "dim ambient light",
+      "soft reflections on the platform floor"
+    ]
+  },
+
+  "mood": [
+    "lonely",
+    "quiet",
+    "cinematic"
+  ],
+
+  "motion": {
+    "subject_motion": "steadily walks away from the camera",
+    "camera_motion": "gentle forward follow",
+    "speed": "slow",
+    "scene_stability": "high",
+    "composition_preservation": "high"
+  }
+}

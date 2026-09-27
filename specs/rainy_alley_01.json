@@ -1,0 +1,54 @@
+{
+  "shot_id": "rainy_alley_01",
+
+  "character": {
+    "subject": "young man wearing a dark jacket and holding a letter",
+    "action": "standing still while looking down at the letter",
+    "facing": "three-quarter view toward camera"
+  },
+
+  "environment": {
+    "location": "narrow Seoul alley",
+    "time": "night",
+    "weather": "rainy",
+    "details": [
+      "wet pavement",
+      "small storefronts",
+      "Korean signs",
+      "reflections from street lights"
+    ]
+  },
+
+  "composition": {
+    "shot_size": "medium shot",
+    "camera_view": "eye level",
+    "subject_position": "slightly right of center",
+    "perspective": "shallow urban depth",
+    "vanishing_point": "background alley",
+    "leading_lines": true
+  },
+
+  "lighting": {
+    "type": "mixed street and storefront lighting",
+    "details": [
+      "warm storefront glow",
+      "cool blue ambient night light",
+      "reflections on wet pavement"
+    ]
+  },
+
+  "mood": [
+    "anxious",
+    "lonely",
+    "melancholic",
+    "cinematic"
+  ],
+
+  "motion": {
+    "subject_motion": "remains mostly still while slightly lowering the letter",
+    "camera_motion": "slow push in toward the subject",
+    "speed": "very_slow",
+    "scene_stability": "high",
+    "composition_preservation": "high"
+  }
+}
